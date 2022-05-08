@@ -9,7 +9,7 @@ From day 33 :  need to upload other python files
 
 - Replit
 - Pycharm
-- codingrooms App
-- 
+- Codingrooms App
+- Discord channel 
 
 ## 
