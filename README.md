@@ -1,5 +1,5 @@
-# 100DaysOfPython
-100 Days of Python 
+# 100 Days Of Python
+
 
 # Progress : 
 Up to day 32  : https://replit.com/@SysphCh   
